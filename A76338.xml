@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and full relation of the late sea fight, betwixt a squadron of ships belonging to the Parliament of England, and the Queene of Swethlands fleet, upon the coast of England, neer Portsmouth, upon Satturday, May 1, 1647. Also, the manner how Vice-Admirall Batten, with the St. Andrew, Garland, Convertine, and Mary-Rose, met with them towards the coast of France, May the 3. and brought five of the Queene of Swethlands chiefe ships into the Downes. Likewise the instructions of the said Queen to the commanders in chiefe of this fleet, together with their commissions, and their designe.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76338</idno>
+            <idno type="STC">Wing B171</idno>
+            <idno type="STC">Thomason E386_12</idno>
+            <idno type="STC">ESTC R201481</idno>
+            <idno type="EEBO-CITATION">99861986</idno>
+            <idno type="PROQUEST">99861986</idno>
+            <idno type="VID">160222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160222)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E386[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and full relation of the late sea fight, betwixt a squadron of ships belonging to the Parliament of England, and the Queene of Swethlands fleet, upon the coast of England, neer Portsmouth, upon Satturday, May 1, 1647. Also, the manner how Vice-Admirall Batten, with the St. Andrew, Garland, Convertine, and Mary-Rose, met with them towards the coast of France, May the 3. and brought five of the Queene of Swethlands chiefe ships into the Downes. Likewise the instructions of the said Queen to the commanders in chiefe of this fleet, together with their commissions, and their designe.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Golding,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>May 10. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: off Dover, the 4. of May, 1647. R.B.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Sweden --  Early works to 1800.</term>
+               <term>Sweden --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160222:1" rendition="simple:additions"/>
+            <p>A TRVE AND FVLL RELATION OF The late Sea Fight, betwixt a Squadron of Ships belong<g ref="char:EOLhyphen"/>ing to the Parliament of <hi>England,</hi> and the Queene of <hi>Swethlands</hi> Fleet, upon the Coaſt of <hi>England,</hi> neer <hi>Portſmouth,</hi> upon Satturday, <hi>May</hi> 1, 1647.</p>
+            <p>Alſo, the manner how Vice-Admirall <hi>Batten,</hi> with the St. <hi>Andrew, Garland, Con<g ref="char:EOLhyphen"/>vertine,</hi> and <hi>Mary-Roſe,</hi> met with them towards the Coaſt of <hi>France, May</hi> the 3. and brought five of the Queene of <hi>Swethlands</hi> chiefe Ships into the <hi>Downes.</hi> Likewiſe the Inſtructions of the ſaid Queen to the Commanders in chiefe of this Fleet, together with their Commiſſions, and their Deſigne.</p>
+            <figure>
+               <figDesc>depiction of a battle at sea</figDesc>
+            </figure>
+            <p>London, Printed for <hi>E. Golding, May</hi> 10. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160222:2"/>
+            <pb facs="tcp:160222:2"/>
+            <head>A FULL RELATJON OF A late Sea-Fight, betwixt the Parlia<g ref="char:EOLhyphen"/>ments Ships, and the Queene of Sweathlands, upon the Coaſt of <hi>England,</hi> neere <hi>Portſ<g ref="char:EOLhyphen"/>mouth, May</hi> 1.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>On the 2. of this inſtant moneth, be<g ref="char:EOLhyphen"/>ing the Lords day, our Comman<g ref="char:EOLhyphen"/>der in chiefe of the Sea Forces, received a packet from a ſmall Frigat, that came
+<pb facs="tcp:160222:3"/>
+from the Rear-Admirall, who had been in fight th day before with five of the Queen of <hi>Swethlands</hi> ſhips, and eleven ſaile of Marchants ſhips, which they conveyed, being all laden with falt from <hi>Tubey</hi> in <hi>Portingale.</hi>
+            </p>
+            <p>The reaſon of the fight was, the Swe<g ref="char:EOLhyphen"/>diſh ſhips Wore flags, <hi>viz.</hi> Admirall, Vice-Admiral, and Rear-Admiral, which they refuſed to take in, or to low their top-ſales (although commanded by cap. <hi>Owen,</hi> capt. of the Parliaments Reare-Admirall ſo to do.) Whereupon the ſaid capt. <hi>Owen</hi> gave them a broad ſide, inſo<g ref="char:EOLhyphen"/>much that divers ſhot paſt betweene them, and great execution done upon the Switzers, ſcouring their upper decks with ſmall ſhot ſeverall times, captain <hi>Owen</hi> loſt not above 8. men, beſides ſome few wounded, the fight continued ſixe hours, til night began to aproach, where the Swediſh Fleet tooke their opportu<g ref="char:EOLhyphen"/>nity, and got away. But ſo ſoon as Vice-admirall <hi>Batteu</hi> heard of it, he ſet ſaile with the St, <hi>Andrew, Garland, Convertine,</hi> and <hi>Mary-Roſe,</hi> and ſtood over for the
+<pb facs="tcp:160222:3"/>
+Coaſt of <hi>France</hi> in the night; and in the morning about 8. of the clock, being the 3. of <hi>May,</hi> near <hi>Bulloign,</hi> he came up with the Admiral of the Swedes ſhip, whoſe names was <hi>Martin Tyſin,</hi> the ſhip was called the <hi>Leopard,</hi> and had 32 Guns; the Vice-Admirall <hi>Daniell Johnſon,</hi> a luſty ſtout ſhip, called the <hi>Angel Raphael,</hi> and had 24 Guns; the Rear-admirall the <hi>Ne<g ref="char:EOLhyphen"/>ptune, Moris Cook</hi> Captain, with 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> guns; the other two ſhips, of 22 guns a piece, one being called the <hi>Anne-Free;</hi> the other, the <hi>Neptune.</hi>
+            </p>
+            <p>The Captaines of all theſe ſheps, hee commanded aboard, and asked them, what they had done with his Rear-Ad<g ref="char:EOLhyphen"/>miral; they at firſt denyed rhat they ſaw him, but he preſſing it ſo hard upon them at length confeſſed, that they had beene in fight with him, and that the reaſon was, becauſe they would not take in their flags, being ſo commanded by their Queen, and had inſtructions to thar pur<g ref="char:EOLhyphen"/>poſe, which he cauſed them to ſend for, and took Copies of them, which appea<g ref="char:EOLhyphen"/>red to be true, in a high manner.</p>
+            <p>
+               <pb facs="tcp:160222:4"/>And they further told our Comman<g ref="char:EOLhyphen"/>der Vice-admiral <hi>Batten,</hi> that they would rather dye in honour, then to go home and be hanged, for diſobeying their com<g ref="char:EOLhyphen"/>miſſions; a brave reſolution, &amp; <hi>I</hi> could wiſh it were imprinted in the hearts of all our commanders: they further told him, that if their flaggs were then abroad, they would dy before they made one ſhot at him, though he ſhot never ſo many at them, yet would not take them in, and indeed were very reſpective to him. But they did much blame the Rear Admirall, for that all the ſhot he made was at their Vice-admirall, and Rear-admirall, &amp; not at their Admiral, whom he ought firſt to have commanded; the others being ſubordinate to his com<g ref="char:EOLhyphen"/>mands; &amp; although he was 4. or 5. hours by the Admirals ſide, never ſhot Gun at him, but ſent his Boat 3 times aboard. Our Vice-admiral demanded of them, where the Rear-admirall left them, they told him off <hi>Beachy,</hi> which to him did ſeeme ſtrange, that he ſhould beginne a quarrell, and not follow them, till hee came
+
+<pb facs="tcp:160222:4"/>
+neer where the Vice-admirall was, ha<g ref="char:EOLhyphen"/>ving ſent a Frigot to him, to give him intelligence, &amp; might undoubtedly ex<g ref="char:EOLhyphen"/>pect his reliefe.</p>
+            <p>All <hi>Munday</hi> was ſpent in taking of Examinations, and Copies of Commiſ<g ref="char:EOLhyphen"/>ſions; the Swediſh Commanders being detained aboard by our Vice-admirall as priſoners, but uſed with great civili<g ref="char:EOLhyphen"/>tie.</p>
+            <p>At length a Gouncell of Warre was called by our Commander in chief with his Captaines, the reſult whereof was, that the Swedes Vice-admirall, who had beene the man which was moſt active, was with his ſhip to be carryed into the <hi>Downes,</hi> till the pleaſure of the Par<g ref="char:EOLhyphen"/>liament be further known, which was done acrordingly, and the next day we arrived in the <hi>Downes,</hi> being the 4. in<g ref="char:EOLhyphen"/>ſtant; the reſt of the Swedes in regard of theit ſhortneſſe of Victuall, and having charge of the Convoy, were left to their own diſpoſe, and this was performed without ſhooting ſo much as a Musket; but truly, if the Queene of <hi>Swethland</hi>
+               <pb facs="tcp:160222:5"/>
+leave not out that peremptory com<g ref="char:EOLhyphen"/>mand in her inſtructions, not to ſtrike to any of our Commanders, enjoyned to keepe the Soveraignty of the Seas, and to expect homage from all, even to ſin<g ref="char:EOLhyphen"/>king, or burning, this muſt in time, breed ill bloud between the two Kingdomes, which might be wiſht miaht be pre<g ref="char:EOLhyphen"/>vented, by a Letter from our Parliament to the Queen of <hi>Swethland.</hi> Thus have I ſtiven you a perfect Relation of the whole proceedings. Sir, I have not elſe at preſent, but to let you know, I am</p>
+            <closer>
+               <signed>Your most humble ſervant, and Kinſman, <hi>R. B.</hi>
+               </signed>
+               <dateline>Dated at Sea, off <hi>Dover,</hi> 
+                  <date>the 4. of May, 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
